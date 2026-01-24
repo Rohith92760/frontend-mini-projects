@@ -65,5 +65,4 @@ Displays the current time that updates every second.
 ---
 
 ## 🖼️ Project Previews
-(Add screenshots of your projects here if you’d like 👇)
 
